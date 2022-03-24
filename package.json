@@ -1,0 +1,19 @@
+{
+  "name": "nodejslab",
+  "version": "1.0.0",
+  "description": "First lab for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/makomaster2/NodeJS.git"
+  },
+  "author": "Austin Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makomaster2/NodeJS/issues"
+  },
+  "homepage": "https://github.com/makomaster2/NodeJS#readme"
+}
