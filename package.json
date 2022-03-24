@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/makomaster2/NodeJS/issues"
   },
-  "homepage": "https://github.com/makomaster2/NodeJS#readme"
+  "homepage": "https://github.com/makomaster2/NodeJS#readme",
+  "dependencies": {
+    "request-promise": "^4.2.6"
+  }
 }
